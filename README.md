@@ -7,15 +7,18 @@ you will need:
 
 
 
-Ruby version
-  <p>ruby 2.2.0</p>
-Dependencies
-  <p>Sidekiq</p>
- <p> Sidetiq</p>
-  <p>Omniauth-facebook</p>
+<p>Ruby version
+  *ruby 2.2.0
+</p>
+<p>Dependencies
+*Sidekiq
+*Sidetiq
+*Omniauth-facebook
+</p>
   
-Running
-  <p>Sidekiq run in a terminal and another terminal run the server</p>
- <p> bundle exec sidekiq</p>
- <p> rails s</p>
+<p>Running
+*Sidekiq run in a terminal and another terminal run the server
+*bundle exec sidekiq
+*rails s
+ </p>
 
