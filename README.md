@@ -7,14 +7,14 @@ you will need:
 
 
 
-* Ruby version
+Ruby version
   ruby 2.2.0
-* Dependencies
+Dependencies
   Sidekiq
   Sidetiq
   Omniauth-facebook
   
-* Running
+Running
   Sidekiq run in a terminal and another terminal run the server
   bundle exec sidekiq
   rails s
