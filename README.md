@@ -19,5 +19,3 @@ you will need:
   bundle exec sidekiq
   rails s
 
-
-<tt>rake doc:app</tt>.
