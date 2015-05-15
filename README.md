@@ -6,14 +6,14 @@ you will need:
   Get the "app secret" and save the environment variable	FACEBOOK_SECRET
 
 
-Ruby version
+<h3>Ruby version</h3>
   <br/>ruby 2.2.0
-Dependencies
+<h3>Dependencies/<h3>
 <br/>Sidekiq
 <br/>Sidetiq
 <br/>Omniauth-facebook
 
-Running
+<h3>Running</h3>
 <br/>Sidekiq run in a terminal and another terminal run the server
 <br/>bundle exec sidekiq
 <br/>rails s
