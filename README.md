@@ -8,17 +8,17 @@ you will need:
 
 
 <p>Ruby version
-  *ruby 2.2.0
+  <br/>ruby 2.2.0
 </p>
 <p>Dependencies
-*Sidekiq
-*Sidetiq
-*Omniauth-facebook
+<br/>Sidekiq
+<br/>Sidetiq
+<br/>Omniauth-facebook
 </p>
   
 <p>Running
-*Sidekiq run in a terminal and another terminal run the server
-*bundle exec sidekiq
-*rails s
+<br/>Sidekiq run in a terminal and another terminal run the server
+<br/>bundle exec sidekiq
+<br/>rails s
  </p>
 
