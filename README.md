@@ -6,7 +6,7 @@ you will need:
     <li>The first thing we need to do is set up a <a href="http://developers.facebook.com/apps">Facebook application</a>.</li>
     <li>Get the "app id" and save the environment variable		FACEBOOK_KEY</li>
     <li>Get the "app secret" and save the environment variable	FACEBOOK_SECRET</li>
-    <li>Para rodar no localhost:3000 set o dominio do projeto como http://localhost:3000</li>
+    <li>To run on localhost: 3000, seven project area as http://localhost:3000</li>
   </ul>
 </p>
 
