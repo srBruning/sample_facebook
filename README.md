@@ -8,7 +8,7 @@ you will need:
 
 <h3>Ruby version</h3>
   <br/>ruby 2.2.0
-<h3>Dependencies/<h3>
+<h3>Dependencies</h3>
 <br/>Sidekiq
 <br/>Sidetiq
 <br/>Omniauth-facebook
