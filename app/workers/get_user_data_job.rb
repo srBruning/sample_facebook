@@ -29,6 +29,6 @@ class GetUserDataJob < ActiveJob::Base
 	  	end
 
 	  end
-	  puts "AND -------- GetUserDataJob --------- AND "
+	  puts "END -------- GetUserDataJob --------- END "
 	end
 end
