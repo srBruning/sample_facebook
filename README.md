@@ -1,10 +1,13 @@
-Example login and integration with facebook using Rails and gem [omniauth-facebook](https://github.com/mkdynamic/omniauth-facebook).
-Background jobs are used to: generate the server tokem and to seek User data once per minute.
+<p>Example login and integration with facebook using Rails and gem [omniauth-facebook](https://github.com/mkdynamic/omniauth-facebook).</p>
+<p>Background jobs are used to: <br/>generate the server tokem <br/>and to seek User data once per minute.</p>
+<p>
 you will need:
-  The first thing we need to do is set up a [Facebook application](http://developers.facebook.com/apps).
-  Get the "app id" and save the environment variable		FACEBOOK_KEY  
-  Get the "app secret" and save the environment variable	FACEBOOK_SECRET
-
+  <ul>
+    <li>The first thing we need to do is set up a [Facebook application](http://developers.facebook.com/apps).</li>
+    <li>Get the "app id" and save the environment variable		FACEBOOK_KEY</li>
+    <li>Get the "app secret" and save the environment variable	FACEBOOK_SECRET</li>
+  </ul>
+</p>
 
 <h3>Ruby version</h3>
   <br/>ruby 2.2.0
